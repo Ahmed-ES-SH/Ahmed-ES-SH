@@ -1,193 +1,121 @@
 <div align="center">
 
-# Ahmed Ismail
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Ahmed%20Ismail&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
-### Full-Stack Web Developer
+<a href="https://github.com/Ahmed-ES-SH">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Laravel+%2B+Nest.js+%2B+Next.js;Building+API-Driven%2C+Multilingual+Web+Platforms;Clean+Code+%E2%80%A2+Scalability+%E2%80%A2+Performance" alt="Typing SVG" />
+</a>
 
-Building scalable, production-ready web applications with **Laravel**, **Nest.js**, and **Next.js**.
+<br/>
 
-[LinkedIn](https://www.linkedin.com/in/ahmed-ismail-9849b0294) •
-[Portfolio](https://ahmedismaildev.vercel.app) •
-[Email](mailto:ahmedismaildev6@gmail.com)
+<a href="https://www.linkedin.com/in/ahmed-ismail-9849b0294"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Ahmed-ES-SH"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:ahmedismaildev6@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="tel:+201017539419"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 </div>
 
----
+<br/>
 
-## About Me
+## 👋 About Me
 
-I'm a Full-Stack Web Developer with 3+ years of experience building modern web applications from concept to production.
+```yaml
+name:        Ahmed Ismail
+role:        Full-Stack Web Developer
+experience:  3+ years
+focus:       API-driven architecture • Multilingual systems • Performance optimization
+stack:       Laravel · Nest.js · Next.js
+philosophy:  Clean code, scalability, and turning complex requirements into reliable solutions
+```
 
-I specialize in scalable backend architectures, modern frontend development, REST APIs, multilingual systems, and dashboard-based platforms. I enjoy writing clean, maintainable code and turning complex business requirements into reliable products.
+I'm a **Full-Stack Web Developer** with 3+ years of experience building production-ready web platforms.
+I specialize in **API-driven architectures**, **multilingual systems**, and **performance-optimized frontends**,
+with a strong focus on writing clean, scalable code.
 
----
+<br/>
 
-## Tech Stack
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
-
-- PHP
-- TypeScript
-- JavaScript
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 ### Frontend
-
-- Next.js (App Router)
-- React
-- Tailwind CSS
-- Sass
-- Bootstrap
-- Zustand
-- Redux Toolkit
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge"/>
 
 ### Backend
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-- Laravel
-- Nest.js
-- REST API
-- Node.js (Basic)
+### Tools & Auth
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth-3C8CBC?style=for-the-badge&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-### Database
+</div>
 
-- MySQL
+<br/>
 
-### Tools
+## 📊 GitHub Stats
 
-- Git
-- GitHub
-- Axios
-- TanStack Query
-- JWT
-- OAuth
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-## Featured Projects
+<br/>
 
-### Mada Plus
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=00000000"/>
 
-A service marketplace connecting digital and local service providers with customers.
+</div>
 
-**Highlights**
+<br/>
 
-- Role-Based Access Control (RBAC)
-- Secure payment workflow
-- Seller & customer dashboards
-- Admin panel
-- Laravel + Next.js
+## 🎓 Education
 
----
+<div align="center">
 
-### Aram Gulf
+| 🏫 Institution | 🎓 Degree | 📅 Duration |
+|---|---|---|
+| Zagazig University | Bachelor of Arts | Jan 2019 – Jan 2023 |
 
-A complete service center management platform.
+</div>
 
-**Highlights**
+<br/>
 
-- Booking system
-- Real-time chat
-- Payment integration
-- Multi-tenant dashboards
-- Performance analytics
+<div align="center">
 
----
+### 📫 Let's Connect
 
-### Borsan Academy
+<a href="https://www.linkedin.com/in/ahmed-ismail-9849b0294"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ahmedismaildev6@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-A bilingual online learning platform.
+<br/><br/>
 
-**Highlights**
+<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS"/>
 
-- Arabic & English support
-- Course management
-- Enrollment system
-- Content streaming
-- Responsive UI
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer" width="100%"/>
 
-### Madad
-
-Modern technical services platform.
-
-**Highlights**
-
-- High-performance UI
-- Accessible components
-- Responsive design
-- Optimized Core Web Vitals
-
----
-
-## What I Focus On
-
-- Scalable Web Applications
-- REST API Development
-- Dashboard Systems
-- Authentication & Authorization
-- Clean Architecture
-- Performance Optimization
-- Responsive Design
-- Multilingual Applications
-
----
-
-## Currently Learning
-
-- Advanced Nest.js
-- System Design
-- Microservices
-- Docker
-- CI/CD
-
----
-
-## GitHub Stats
-
-```text
-(Add GitHub Readme Stats here)
-
-https://github.com/anuraghazra/github-readme-stats
-```
-
----
-
-## Top Languages
-
-```text
-(Add Top Languages Card)
-
-https://github.com/anuraghazra/github-readme-stats
-```
-
----
-
-## GitHub Streak
-
-```text
-(Add GitHub Streak)
-
-https://github.com/DenverCoder1/github-readme-streak-stats
-```
-
----
-
-## Contribution Graph
-
-```text
-(Add Contribution Graph)
-
-https://github.com/ashutosh00710/github-readme-activity-graph
-```
-
----
-
-## Connect With Me
-
-- Email: **ahmedismaildev6@gmail.com**
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- GitHub: https://github.com/YOUR_USERNAME
-
----
-
-> Building reliable software with clean code and scalable architecture.
+</div>
