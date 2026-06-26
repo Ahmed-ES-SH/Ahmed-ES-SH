@@ -1,115 +1,121 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=230&section=header&text=Ahmed%20Ismail&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Laravel%20%E2%80%A2%20Nest.js%20%E2%80%A2%20Next.js&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Ahmed%20Ismail&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Laravel+%7C+Nest.js+%7C+Next.js;Building+API-Driven+Architectures;Clean+Code+%E2%80%A2+Scalability+%E2%80%A2+Performance&font=Fira+Code&center=true&width=650&height=50&color=2575FC&vCenter=true&size=22&pause=2000"/>
+<a href="https://github.com/Ahmed-ES-SH">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Laravel+%2B+Nest.js+%2B+Next.js;Building+API-Driven%2C+Multilingual+Web+Platforms;Clean+Code+%E2%80%A2+Scalability+%E2%80%A2+Performance" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="mailto:ahmedismaildev6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Phone-+20_1017539419-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ahmed-ismail-9849b0294"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Ahmed-ES-SH"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:ahmedismaildev6@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="tel:+201017539419"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28" align="center"/> <h2 align="center">About Me</h2>
+## 👋 About Me
 
-<table align="center">
-<tr>
-<td>
+```yaml
+name:        Ahmed Ismail
+role:        Full-Stack Web Developer
+experience:  3+ years
+focus:       API-driven architecture • Multilingual systems • Performance optimization
+stack:       Laravel · Nest.js · Next.js
+philosophy:  Clean code, scalability, and turning complex requirements into reliable solutions
+```
 
-🚀 **Full-Stack Web Developer** with **3+ years** of experience building production-ready web platforms using **Laravel**, **Nest.js**, and **Next.js**.
-
-🎯 Specialized in **API-driven architectures**, **multilingual systems**, and **performance-optimized frontends**.
-
-🧩 Focused on **clean code**, **scalability**, and translating complex business requirements into reliable technical solutions.
-
-🎓 Bachelor of Arts — **Zagazig University** (Jan 2019 – Jan 2023)
-
-</td>
-</tr>
-</table>
+I'm a **Full-Stack Web Developer** with 3+ years of experience building production-ready web platforms.
+I specialize in **API-driven architectures**, **multilingual systems**, and **performance-optimized frontends**,
+with a strong focus on writing clean, scalable code.
 
 <br/>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+</div>
 
-<p align="center"><strong>Languages</strong></p>
-<p align="center">
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
 
-<p align="center"><strong>Frontend</strong></p>
-<p align="center">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+### Frontend
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge"/>
 
-<p align="center"><strong>Backend</strong></p>
-<p align="center">
+### Backend
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-<p align="center"><strong>Tools & Auth</strong></p>
-<p align="center">
+### Tools & Auth
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/OAuth-3C3C3D?style=for-the-badge&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth-3C8CBC?style=for-the-badge&logo=auth0&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="400"/>
 
 </div>
 
 <br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
 
 <br/>
 
-<h2 align="center">🤝 Let's Connect</h2>
+## 🎓 Education
 
 <div align="center">
 
-<a href="mailto:ahmedismaildev6@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+| 🏫 Institution | 🎓 Degree | 📅 Duration |
+|---|---|---|
+| Zagazig University | Bachelor of Arts | Jan 2019 – Jan 2023 |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<a href="https://www.linkedin.com/in/ahmed-ismail-9849b0294"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ahmedismaildev6@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2575FC&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer" width="100%"/>
