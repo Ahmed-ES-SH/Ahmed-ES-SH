@@ -28,7 +28,7 @@ x-philosophy: "clean, scalable code for reliable systems"
 <a href="https://www.linkedin.com/in/ahmed-ismail-9849b0294"><img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=flat-square&logo=linkedin&logoColor=F5A623" /></a>
 <a href="https://github.com/Ahmed-ES-SH"><img src="https://img.shields.io/badge/GitHub-0B0F19?style=flat-square&logo=github&logoColor=E7E5DF" /></a>
 <a href="mailto:ahmedismaildev6@gmail.com"><img src="https://img.shields.io/badge/Gmail-0B0F19?style=flat-square&logo=gmail&logoColor=2DD4BF" /></a>
-<a href="tel:+201017539419"><img src="https://img.shields.io/badge/Phone-0B0F19?style=flat-square&logo=whatsapp&logoColor=F5A623" /></a>
+<a href="https://wa.me/201017539419"><img src="https://img.shields.io/badge/Phone-0B0F19?style=flat-square&logo=whatsapp&logoColor=F5A623" /></a>
 
 </div>
 
